@@ -4,8 +4,8 @@ from aiogram import Dispatcher, Bot
 from aiogram.contrib.fsm_storage.memory import MemoryStorage
 from aiogram.dispatcher.filters.state import StatesGroup, State
 
-TOKEN = "2091506588:AAFFalEFDB9S9RUkXMkvKl4nuUdqUjOBTYw"
-PAYMENTS_PROVIDER_TOKEN = "632593626:TEST:sandbox_i35541414349"
+TOKEN = "NULL"
+PAYMENTS_PROVIDER_TOKEN = "NULL"
 admin_id = [416977980]
 loop = asyncio.get_event_loop()
 
