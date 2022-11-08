@@ -7,7 +7,7 @@
 # Algorythms-effectiveness-research
 Research on the effectiveness of sorting methods: Insertion, Shell on multidimensional arrays
 
-Steps:
+## Steps:
 1. To use application you should compile it with gcc
 2. You have to enter three-dimentional array size 
 3. After this you have got to choose one of the following modes:
