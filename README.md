@@ -11,5 +11,5 @@ Research on the effectiveness of sorting methods: Insertion, Shell on multidimen
 #### 1. Compile project with gcc
 #### 2. Enter three-dimentional array size
 #### 3. Choose one of the following modes:
- * Individual sorting to get results for one algorythm
- * Packet sortng to get results for all algorythms
+ * Individual sorting - get results for one algorythm
+ * Packet sortng - get results for all algorythms
